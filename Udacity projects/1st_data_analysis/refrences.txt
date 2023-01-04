@@ -1,0 +1,7 @@
+https://www.geeksforgeeks.org/ways-to-filter-pandas-dataframe-by-column-values/
+>>>>
+https://stackoverflow.com/questions/48590268/pandas-get-the-most-frequent-values-of-a-column/48590361
+>>>>
+https://stackoverflow.com/questions/53037698/how-can-i-find-the-most-frequent-two-column-combination-in-a-dataframe-in-python
+>>>>
+
